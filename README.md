@@ -48,7 +48,7 @@ Projet-RATP-Streamlit/
 
 ### Librairies utilisées
 ```
-Pandas, Matplotlib, Seaborn
+Pandas, Matplotlib, Seaborn, streamlit
 ```
 
 ```
