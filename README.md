@@ -41,9 +41,11 @@ Projet-RATP-Streamlit/
 Librairies utilisées
 Pandas, Matplotlib, Seaborn
 
+```
 Auteur
 Diego Casas Barcenas
 Étudiant en Bachelor Universitaire de Technologie – Science des Données
 Université Paris Cité
 diego.casas.dcb@gmail.com
 LinkedIn : https://www.linkedin.com/in/diego-casas-barcenas
+```
