@@ -9,11 +9,14 @@ Ce projet présente un dashboard interactif Streamlit intégré dans un CV numé
 La base de données utilisé est Trafic annuel entrant par station du réseau ferré 2021 trouvé dans le site de la RATP : https://data.ratp.fr/explore/dataset/trafic-annuel-entrant-par-station-du-reseau-ferre-2021/table/?sort=correspondance_1
 
 ## Projet
+```
 Le dashboard permet de filtrer, explorer et comprendre les dynamiques de fréquentation des stations parisiennes.
 
 Contenu du projet
 Le repository contient :
 Projet-RATP-Streamlit/
+```
+
 ```
 ├── RATP_2021.csv              Données officielles RATP (2021)
 ├── app.py                     Code Streamlit du CV + dashboard interactif
@@ -22,24 +25,31 @@ Projet-RATP-Streamlit/
 ```
 
 ### Filtres dynamiques
+```
 -Filtre par ligne de métro/RER
 -Filtre par station
+```
 
 ## Visualisations
+```
 -Top 10 des stations les plus fréquentées
 -Trafic total par ligne (Correspondance_1)
 -Répartition des stations par réseau (Métro / RER)
 -Trafic moyen par ligne
 -Tableau interactif filtrable
-
+```
 
 ### Ameliorations visuelles pour les DataViz 
+```
 -1 seul thème visuel cohérent (bleu)
 -Ajout de labels + lisibilité renforcée
 -Intégration directe dans une interface de CV numérique
+```
 
-Librairies utilisées
+### Librairies utilisées
+```
 Pandas, Matplotlib, Seaborn
+```
 
 ```
 Auteur
