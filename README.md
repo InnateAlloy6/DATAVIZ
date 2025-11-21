@@ -15,10 +15,10 @@ Contenu du projet
 Le repository contient :
 Projet-RATP-Streamlit/
 ```
-├── RATP_2021.csv            # Données officielles RATP (2021)
-├── app.py                   # Code Streamlit du CV + dashboard interactif
-├── CV_2025_Diego_Casas.pdf # Version PDF du CV
-├── README.md                # Documentation du projet
+├── RATP_2021.csv              Données officielles RATP (2021)
+├── app.py                     Code Streamlit du CV + dashboard interactif
+├── CV_2025_Diego_Casas.pdf    Version PDF du CV
+├── README.md                  Documentation du projet
 ```
 
 ### Filtres dynamiques
